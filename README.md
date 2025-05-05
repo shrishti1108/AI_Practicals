@@ -25,13 +25,15 @@ This repository contains a collection of Python-based implementations for practi
 ### 6. Feature Extraction and Analysis
 - Extracts textual features such as n-grams, POS tags, etc., and performs basic statistical analysis.
 
-### 7. Tic-Tac-Toe Game
+### 7. Implement AI algorithms for NLP analysis
+
+### 8. Tic-Tac-Toe Game
 - Command-line implementation of the Tic-Tac-Toe game using Python.
 
-### 8. Expert System Case Studies
+### 9. Expert System Case Studies
 - Case Study 1: A **AI-Powered Multilingual Chatbot for Maharashtra Government Portals**
 
-### 9. Real-World NLP Case Studies
+### 10. Real-World NLP Case Studies
 - 📌 **Sentiment Analysis**: Analyze sentiment (positive/negative) from given text using NLP.
 - 📌 **Fake News Detection**: Identify fake news using NLP classification techniques.
 
